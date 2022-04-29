@@ -1,8 +1,8 @@
 import './Home.scss'
 // import { AcUnit } from '@mui/icons-material';
-import Navbar from '../components/navbar/Navbar';
-import Featured from '../components/featured/Featured.js';
-import List from '../components/list/List.js';
+import Navbar from '../../components/navbar/Navbar';
+import Featured from '../../components/featured/Featured.js';
+import List from '../../components/list/List.js';
 const Home = () => {
   return (
 
